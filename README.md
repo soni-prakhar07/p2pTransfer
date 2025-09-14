@@ -5,7 +5,6 @@
 
 Simple P2P File Transfer is a single file html with peer.js that allows secure and direct file sharing between peers without relying on centralized servers. It leverages modern web technologies to deliver a seamless file transfer experience.
 
-![Screenshot](screenshot.jpeg)
 
 ## Live Demo
 [p2pfile.iamickdev.com](https://p2pfile.iamickdev.com/)
